@@ -14,15 +14,16 @@
 	se aplica la propiedad, sin afectar a los elementos que se encuentren en su interior, al contrario de 
 	opacity que si afecta a los elementos internos.*/
 	width: 160px;
-    height: 50px;
+    height: 60px;
 }
 
-
-
-.botonAzul{ /* Cris. Para crear fondo azul*/
-	background-color: blue;
+.miP{ /* Cris. Me ayuda al tamaño de mi letra */
+	width: 100%;
+	height: 50%;
 }
 
-.botonAqua{ /* Cris. Para crear fondo verdeagua */
-	background-color: #4DE0E0;
+.bt2{ /* Cris. Me ayuda crear mi segundo boton */
+	width: 50%;
+	height: 40px;
 }
+
