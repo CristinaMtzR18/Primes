@@ -12,9 +12,11 @@ footer{ /* Cris. Para crear footer de fondo negro */
 
 .fondoContacto{ /* Cris. Para crear fondo para seccion de contacto */
 	background-image: url("../img/background/contactus.jpg");
+	background-color: rgba(0, 0, 0, .9);
 	height: 500px;
-	-webkit-filter: saturate(50%);
-}
+	}
+
+
 
 .foto{ /* Cris. Para crear fotografía redonda con etiqueta <img> */
 	height: 15%;
@@ -24,6 +26,9 @@ footer{ /* Cris. Para crear footer de fondo negro */
 
 .miInput{ /* Cris. Para crear boton de fondo blanco con etiqueta <a> */
 	background-position: left center;
+	background: rgba(255,255,255,.1); /* Cris. RBGA afecta sólo a la opacidad del elemento sobre el que 
+	se aplica la propiedad, sin afectar a los elementos que se encuentren en su interior, al contrario de 
+	opacity que si afecta a los elementos internos.*/
 	width: 500px;
 	height: 35px;
 }

@@ -69,18 +69,18 @@ strong {
 .text-right{
 	text-align: right;
 }
-
 .text-white{
 	color: white;
 }
 .text-gray{
 	color: #888;
 }
-
 .text-green{
  	color: #0dc0c0;
 }
-
+.text-20{
+	font-size: 20px;
+}
 .active {
 	color: #0dc0c0;
 }
@@ -90,6 +90,12 @@ strong {
 }
 .bg-gray{
 	background-color: rgb(244, 244, 244);
+}
+.bg-white{
+	background-color: rgb(0, 0, 0);
+}
+.bg-black{
+	background-color: rgb(0, 0, 0);
 }
 .bg-img-block {
 	background-size: cover;

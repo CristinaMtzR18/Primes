@@ -1,4 +1,6 @@
-
+*{
+	font-family: 'Open Sans', sans-serif;
+}
 
 .miBoton{ /* Cris. Miboton usando etiqueta <a> */
 	display:inline-block;
@@ -14,6 +16,8 @@
 	width: 160px;
     height: 50px;
 }
+
+
 
 .botonAzul{ /* Cris. Para crear fondo azul*/
 	background-color: blue;

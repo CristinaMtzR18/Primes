@@ -1152,8 +1152,13 @@ text-shadow: none;
 		margin-left: auto;
 		margin-right: auto;
 	}
+	.glyph .fs1 {
+		font-size: 2em;
+	}
+
 	.fs1 {
 		font-size: 2em;
 	}
+
 
 	
