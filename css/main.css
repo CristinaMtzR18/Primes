@@ -1,0 +1,33 @@
+footer{ /* Cris. Para crear footer de fondo negro */
+	background-color: black;
+	height: 55px;
+	padding-top: 2%;
+}
+
+.fondoCity{ /* Cris. Para crear fondo con imagen de ciudad */
+	background-image: url("../img/background/city.jpg");
+	height: 400px;
+	-webkit-filter: saturate(50%); /* Cris. Para cambio en la intensidad del color en la etiqueta <img> */
+}
+
+.fondoContacto{ /* Cris. Para crear fondo para seccion de contacto */
+	background-image: url("../img/background/contactus.jpg");
+	height: 500px;
+	-webkit-filter: saturate(50%);
+}
+
+.foto{ /* Cris. Para crear fotografía redonda con etiqueta <img> */
+	height: 15%;
+	width: 15%;
+	border-radius: 100%;
+}
+
+.miInput{ /* Cris. Para crear boton de fondo blanco con etiqueta <a> */
+	background-position: left center;
+	width: 500px;
+	height: 35px;
+}
+
+.forma{ /* Cris. Para crear boton de fondo blanco con etiqueta <a> */
+	padding-left: 3%;
+}
